@@ -1,6 +1,4 @@
 # DC-KASH-REVAHACK
-
-# DC-KASH-REVAHACK
 Complete project, dataset, and documentation for Team DC-Kash's submission for REVA Hack 2022.
 
                                                           SpyTrash
